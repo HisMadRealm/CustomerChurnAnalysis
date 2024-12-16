@@ -91,9 +91,6 @@ The app allows users to input customer details and predict churn in real-time.
 - Correlation heatmaps.
 - Feature importance analysis.
 
-Example Feature Importance Chart:
-![Feature Importance](results/feature_importance.png)
-
 ---
 
 ## 📋 License
